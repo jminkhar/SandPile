@@ -1,3 +1,3 @@
-                                                                        Sandpile
+                                                          Sandpile
 
-                                                        Java implementation of the Sandpile Model 
+                                          Java implementation of the Sandpile Model 
